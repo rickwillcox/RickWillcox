@@ -1,5 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickwillcox&theme=nightowl&show_icons=true&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickwillcox&hide=jupyter%20notebook,c%23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
