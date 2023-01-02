@@ -1,16 +1,17 @@
 
 
-Hello i'm Rick, a self-taught programmer from Australia 🇦🇺
+### Hi there!
 
-**About me**
+I'm Rick, a self-taught software developer from Australia.
+
+###### About me
 
 - 🧑‍💻 Software Development Engineer at [Lure](https://www.lureapp.io/)
 
 - 🏠 Currently building a chrome extension [Real Estate Mate](https://chrome.google.com/webstore/detail/real-estate-mate/jnojnlmongehjaahajakkolengpclmbd?hl=en-GB&authuser=0), which helps buyers have better access to data on [RealEstate.com.au](https://www.realestate.com.au)
 
-- 🧑‍🔬 I'm passionate getting into the nitty gritty of how things work.
+- 🧑‍🔬 I'm passionate about getting into the nitty gritty of how things work.
 
-##### Tech
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
