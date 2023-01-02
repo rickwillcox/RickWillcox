@@ -1,6 +1,4 @@
-### Hi there!
-
-I'm Rick, a self-taught software developer from Australia.
+### Hi there! I'm Rick.
 
 ###### About me
 
