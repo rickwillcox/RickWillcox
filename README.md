@@ -1,4 +1,16 @@
 
+
+Hello i'm Rick, a self-taught programmer from Australia 🇦🇺
+
+**About me**
+
+- 🧑‍💻 Software Development Engineer at [Lure](https://www.lureapp.io/)
+
+- 🏠 Currently building a chrome extension [Real Estate Mate](https://chrome.google.com/webstore/detail/real-estate-mate/jnojnlmongehjaahajakkolengpclmbd?hl=en-GB&authuser=0), which helps buyers have better access to data on [RealEstate.com.au](https://www.realestate.com.au)
+
+- 🧑‍🔬 I'm passionate getting into the nitty gritty of how things work.
+
+##### Tech
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -9,16 +21,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickwillcox&hide=jupyter%20notebook,c%23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
