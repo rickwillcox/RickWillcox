@@ -2,7 +2,7 @@
 
 ###### About me
 
-- 🧑‍💻 Software Development Engineer at [Lure](https://www.lureapp.io/)
+- 🧑‍💻 Front End Engineer at [Montu](https://www.montu.com.au/)
 
 - 🏠 Currently building a chrome extension [Real Estate Mate](https://chrome.google.com/webstore/detail/real-estate-mate/jnojnlmongehjaahajakkolengpclmbd?hl=en-GB&authuser=0), which helps buyers have better access to data on [RealEstate.com.au](https://www.realestate.com.au)
 
